@@ -1,3 +1,8 @@
+[![Python Version](https://img.shields.io/badge/Python-3.11.3-blue.svg)](https://www.python.org/downloads/release/python-3113/)
+[![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-2023-orange.svg)](https://adventofcode.com/)
+[![Year](https://img.shields.io/badge/Year-2023-brightgreen.svg)](https://github.com/Zerhal/AdventOfCode2023)
+
+
 Advent of Code 2023 - Python Solutions
 ======================================
 
