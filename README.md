@@ -3,7 +3,6 @@
 [![Year](https://img.shields.io/badge/Year-2023-brightgreen.svg)](https://github.com/Zerhal/AdventOfCode2023)
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://opensource.org/licenses/GPL-3.0)
 [![Last Commit](https://img.shields.io/github/last-commit/Zerhal/AdventOfCode2023.svg)](https://github.com/Zerhal/AdventOfCode2023/commits/main)
-[![Code Quality](https://www.code-inspector.com/project/xxx/status/svg)](https://www.code-inspector.com/project/xxx)
 [![Documentation Status](https://readthedocs.org/projects/nom-du-projet/badge/?version=latest)](https://nom-du-projet.readthedocs.io/en/latest/?badge=latest)
 [![Downloads](https://img.shields.io/pypi/dm/nom-du-package.svg)](https://pypi.org/project/nom-du-package/)
 
