@@ -1,7 +1,8 @@
-Advent of Code 2023 - C++ Solutions
-===================================
+Advent of Code 2023 - Python Solutions
+======================================
 
-Welcome to my repository for the Advent of Code 2023 event! This project contains my solutions in C++ for the daily challenges presented in the Advent of Code event.
+
+Welcome to my repository for the Advent of Code 2023 event! This project contains my solutions in Python for the daily challenges presented in the Advent of Code event.
 
 About Advent of Code
 --------------------
@@ -11,19 +12,17 @@ About Advent of Code
 Project Structure
 -----------------
 
-The repository is organized with a separate folder for each day of the Advent of Code event. Inside each folder, you will find the C++ solutions for the respective day's challenge. Additionally, there may be an input file specific to each day, which can be obtained from the Advent of Code website.
+The repository is organized with a separate folder for each day of the Advent of Code event. Inside each folder, you will find the Python solutions for the respective day's challenge. Additionally, there may be an input file specific to each day, which can be obtained from the Advent of Code website.
 
 How to Use
 ----------
 
 1.  Navigate to the folder corresponding to the desired day.
 2.  Download the input file for that day from the provided Advent of Code link.
-3.  Compile and run the C++ solution using a C++ compiler. For example:
+3.  Run the Python script using the following command:
 
-bashCopy code
 
-`g++ solution.cpp -o solution
-./solution`
+`python solution.py`
 
 Disclaimer
 ----------
