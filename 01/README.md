@@ -19,7 +19,7 @@ How to Run the Code
 Ensure you have a Python interpreter installed on your system. You can run the program using the following command in your terminal or command prompt:
 
 
-`python calibration.py`
+`python main.py`
 
 This assumes your Python source code file is named "calibration.py." Adjust the filename if needed.
 
